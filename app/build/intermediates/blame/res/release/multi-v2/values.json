@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,8,5,7,9,4,6",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "56,269,143,233,311,98,192",
+                        "endColumns": "41,41,48,35,43,44,40",
+                        "endOffsets": "93,306,187,264,350,138,228"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,139,188,224,268,313",
+                        "endColumns": "41,41,48,35,43,44,40",
+                        "endOffsets": "92,134,183,219,263,308,349"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,534",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "493,691"
+                    },
+                    "to": {
+                        "startLines": "9,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "354,657",
+                        "endLines": "15,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "652,812"
+                    }
+                }
+            ]
+        }
+    ]
+}

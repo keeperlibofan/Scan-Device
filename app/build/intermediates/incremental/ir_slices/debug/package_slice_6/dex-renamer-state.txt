@@ -1,0 +1,4 @@
+#Wed Oct 31 16:39:34 CST 2018
+base.0=C\:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

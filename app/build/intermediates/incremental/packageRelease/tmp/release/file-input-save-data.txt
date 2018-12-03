@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu Nov 29 13:07:25 CST 2018
+1.base=C\:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
+2.path=lib/armeabi/libserial_port.so
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
+3.set=NATIVE_RESOURCE
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+3.path=lib/armeabi/libdevapi.so
+count=4
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+3.base=C\:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
+0.set=DEX
+0.base=C\:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+2.baseType=DIRECTORY
+1.path=lib/armeabi/libBarcodeReader.so

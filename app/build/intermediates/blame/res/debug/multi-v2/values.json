@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "56,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "41,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "93,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,139,188,224,268,313",
+                        "endColumns": "41,41,48,35,43,44,40",
+                        "endOffsets": "92,134,183,219,263,308,349"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\xiaozhang\\Desktop\\2260287774\\FileRecv\\ScanDemo3\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "354,449",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "444,516"
+                    }
+                }
+            ]
+        }
+    ]
+}

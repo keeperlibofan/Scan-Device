@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">扫码签到</string>
+    <string name="single_scan">单次扫描</string>
+    <string name="continuous_scan">连续扫描</string>
+    <string name="stop_scan">停止</string>
+    <string name="exit">退出</string>
+    <string name="clear_text">清除</string>
+    <string name="get_ver_text">版本</string>
+</resources>
